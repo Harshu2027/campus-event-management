@@ -6,3 +6,7 @@ A static website developed using HTML, CSS, and JavaScript to manage campus even
 - Landing page
 - JavaScript interaction
 - Hosted using GitHub Pages
+
+## Updated from GitHub
+This line was added directly on GitHub.
+
