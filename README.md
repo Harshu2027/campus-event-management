@@ -12,3 +12,6 @@ This line was added directly on GitHub.
 
 ## Another update in github for pull
 line added directly in GITHUB
+
+## Live URL
+https://harshu2027.github.io/campus-event-management/
