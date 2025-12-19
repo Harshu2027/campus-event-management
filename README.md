@@ -10,3 +10,5 @@ A static website developed using HTML, CSS, and JavaScript to manage campus even
 ## Updated from GitHub
 This line was added directly on GitHub.
 
+## Another update in github for pull
+line added directly in GITHUB
